@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fb1c4ffa16cfcb74fa502f51822d9cc0
+timeCreated: 1486608944
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Argon PERSONAL
+  fontNames:
+  - Argon PERSONAL
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

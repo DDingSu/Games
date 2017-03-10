@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5dd4a6d7286004241a7a6f360e2736cd
+timeCreated: 1486608473
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KH-Metropolis
+  fontNames:
+  - KH-Metropolis
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6656d096a5080954296234a6bb5b8471
+timeCreated: 1486607113
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MefesticoLight
+  fontNames:
+  - MefesticoLight
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

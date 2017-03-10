@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 77c3873f542c63646a0cb651b0fd2984
+timeCreated: 1485258893
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SISTEMAS FONT BT
+  fontNames:
+  - SISTEMAS FONT BT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

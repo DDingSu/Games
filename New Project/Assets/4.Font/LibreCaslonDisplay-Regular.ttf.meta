@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5b19ef094242ed5458f6e6b374dac605
+timeCreated: 1485259203
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Libre Caslon Display
+  fontNames:
+  - Libre Caslon Display
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
